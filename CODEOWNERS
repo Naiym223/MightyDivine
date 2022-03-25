@@ -1,0 +1,20 @@
+# MAIN CONTENT
+main.js @TheRealToxicDev
+
+# JS PACKAGES
+package-lock.json @TheRealToxicDev
+package.json @TheRealToxicDev
+
+# GITHUB CONFIGS
+.github/FUNDING.yml @TheRealToxicDev
+
+# SITE CONFIGURATIONS
+configs/index.js @TheRealToxicDev
+configs/staff.js @TheRealToxicDev
+configs/status.js @TheRealToxicDev
+
+# DISCORD CLIENT
+discord/ @TheRealToxicDev
+
+# EXPRESS SERVER
+express/server.js @TheRealToxicDev
